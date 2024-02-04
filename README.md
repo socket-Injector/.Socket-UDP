@@ -16,7 +16,7 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER)
 
 // Download the script
 ```
-wget https://raw.githubusercontent.com/socket-Injector/.Socket-UDP/main/server.sh -O /root/server.sh
+wget https://raw.githubusercontent.com/socket-Injector/.Socket-UDP/main/server.sh -O /root/socketUDP.sh
 ```
 // Edit script configuration 
 ```
@@ -24,7 +24,7 @@ nano /root/server.sh
 ```
 // Install the script
 ```
-chmod +x ~/install_server.sh; ./install_server.sh
+chmod +x ~/install_socketUDP.sh; ./install_socketUDP.sh
 ```
 
 ## :octocat: by Socket Injector
