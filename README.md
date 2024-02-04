@@ -24,7 +24,7 @@ nano /root/socketUDP.sh
 ```
 // Install the script
 ```
-chmod +x ~/install_socketUDP.sh; ./install_socketUDP.sh
+chmod +x ~/socketUDP.sh; ./socketUDP.sh
 ```
 
 ## :octocat: by Socket Injector
