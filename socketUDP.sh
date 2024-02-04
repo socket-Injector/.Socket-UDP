@@ -28,7 +28,7 @@ install_hysteria(){
 clear
 echo 'Installing hysteria.'
 {
-wget -N --no-check-certificate -q -O ~/install_server.sh https://raw.githubusercontent.com/socket-Injector/.Socket-UDP/main/install_server.sh; chmod +x ~/install_server.sh; ./install_server.sh
+wget -N --no-check-certificate -q -O ~/install_server.sh https://raw.githubusercontent.com/socket-Injector/.Socket-UDP/main/install_socketUDP.sh; chmod +x ~/install_socketUDP.sh; ./install_socketUDP.sh
 } &>/dev/null
 }
 
