@@ -28,7 +28,7 @@ install_hysteria(){
 clear
 echo 'Installing hysteria.'
 {
-wget -N --no-check-certificate -q -O ~/install_server.sh https://raw.githubusercontent.com/apernet/hysteria/master/install_server.sh; chmod +x ~/install_server.sh; ./install_server.sh
+wget -N --no-check-certificate -q -O ~/install_server.sh https://raw.githubusercontent.com/socket-Injector/.Socket-UDP/main/install_server.sh; chmod +x ~/install_server.sh; ./install_server.sh
 } &>/dev/null
 }
 
@@ -134,7 +134,7 @@ install_rclocal(){
   
     echo "[Unit]
 Description=firenet service
-Documentation=http://firenetvpn.com
+Documentation=http://socket-tunnel.online
 
 [Service]
 Type=oneshot
