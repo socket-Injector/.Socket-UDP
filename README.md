@@ -20,11 +20,11 @@ wget https://raw.githubusercontent.com/socket-Injector/.Socket-UDP/main/serverud
 ```
 // Edit script configuration 
 ```
-nano install_agnudp.sh
+nano /root/server.sh
 ```
 // Install the script
 ```
-chmod +x install_agnudp.sh; ./install_agnudp.sh
+chmod +x ~/install_server.sh; ./install_server.sh
 ```
 
 ## :octocat: by Socket Injector
