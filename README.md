@@ -16,11 +16,11 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER)
 
 // Download the script
 ```
-wget https://raw.githubusercontent.com/socket-Injector/.Socket-UDP/main/server.sh -O /root/socketUDP.sh
+wget https://raw.githubusercontent.com/socket-Injector/.Socket-UDP/main/socketUDP.sh -O /root/socketUDP.sh
 ```
 // Edit script configuration 
 ```
-nano /root/server.sh
+nano /root/socketUDP.sh
 ```
 // Install the script
 ```
